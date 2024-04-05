@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todoey
 
 A new Flutter project.
@@ -70,3 +71,7 @@ To get started with Todoey, follow these steps:
 7. Contributing
 
 C   ontributions to Todoey are welcome! Please feel free to open a pull request or an issue if you find any bugs or want to suggest improvements.
+=======
+# Todoey-app
+Todoey is a sleek, user-friendly Todo list app built with Flutter. It lets you effortlessly add, complete, and delete tasks, helping you stay organized and productive. Ideal for managing your daily tasks and to-dos.
+>>>>>>> Todoey-app/main
