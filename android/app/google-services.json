@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111422936116",
+    "project_id": "todoey-7f523",
+    "storage_bucket": "todoey-7f523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111422936116:android:de55e9a8708283ff446661",
+        "android_client_info": {
+          "package_name": "com.example.todoey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuys5GSxuiRbYFJR-mbYulovpGBwq0r3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
